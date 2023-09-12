@@ -1,0 +1,18 @@
+[submodule "ai/ai110"]
+	path = ai/ai110
+	url = git@github.com:goats-9/ai1110-assignments
+[submodule "ee/ee2802"]
+	path = ee/ee2802
+	url = git@github.com:goats-9/ee2802-assignments
+[submodule "ee/ee3900"]
+	path = ee/ee3900
+	url = git@github.com:goats-9/ee3900-assignments
+[submodule "ee/ee6367"]
+	path = ee/ee6367
+	url = git@github.com:goats-9/ee6367
+[submodule "cs/cs3423"]
+	path = cs/cs3423
+	url = git@github.com:goats-9/cs3423-assignments
+[submodule "cs/cs3530"]
+	path = cs/cs3530
+	url = git@github.com:goats-9/cs3530-assignments
