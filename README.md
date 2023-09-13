@@ -1,2 +1,2 @@
 # iith-coursework
-A collection of the coursework in various courses I have taken at the Indian Institute of Technology, Hyderabad (IITH). 
+A collection of repositories containing my coursework at Indian Institute of Technology (IITH).
