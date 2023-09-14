@@ -16,6 +16,3 @@
 [submodule "cs/cs3530"]
 	path = cs/cs3530
 	url = git@github.com:goats-9/cs3530-assignments
-[submodule "cs/cs3390"]
-	path = cs/cs3390
-	url = git@github.com:goats-9/cs3390
