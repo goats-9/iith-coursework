@@ -19,3 +19,6 @@
 [submodule "cs/cs5040"]
 	path = cs/cs5040
 	url = git@github.com:goats-9/cs5040
+[submodule "cs/cs3390"]
+	path = cs/cs3390
+	url = git@github.com:goats-9/cs3390
