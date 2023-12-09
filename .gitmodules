@@ -22,3 +22,9 @@
 [submodule "cs/cs3390"]
 	path = cs/cs3390
 	url = git@github.com:goats-9/cs3390
+[submodule "ee/ee5900"]
+	path = ee/ee5900
+	url = git@github.com:goats-9/ee5900
+[submodule "cs/cs6160"]
+	path = cs/cs6160
+	url = git@github.com:goats-9/cs6160
