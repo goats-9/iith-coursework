@@ -1,5 +1,5 @@
-[submodule "ai/ai110"]
-	path = ai/ai110
+[submodule "ai/ai1110"]
+	path = ai/ai1110
 	url = git@github.com:goats-9/ai1110
 [submodule "ee/ee2802"]
 	path = ee/ee2802
