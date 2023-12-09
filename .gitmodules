@@ -1,30 +1,40 @@
 [submodule "ai/ai1110"]
 	path = ai/ai1110
 	url = git@github.com:goats-9/ai1110
+	branch = main
 [submodule "ee/ee2802"]
 	path = ee/ee2802
 	url = git@github.com:goats-9/ee2802
+	branch = main
 [submodule "ee/ee3900"]
 	path = ee/ee3900
 	url = git@github.com:goats-9/ee3900
+	branch = main
 [submodule "ee/ee6367"]
 	path = ee/ee6367
 	url = git@github.com:goats-9/ee6367
+	branch = main
 [submodule "cs/cs3423"]
 	path = cs/cs3423
 	url = git@github.com:goats-9/cs3423
+	branch = main
 [submodule "cs/cs3530"]
 	path = cs/cs3530
 	url = git@github.com:goats-9/cs3530
+	branch = main
 [submodule "cs/cs5040"]
 	path = cs/cs5040
 	url = git@github.com:goats-9/cs5040
+	branch = main
 [submodule "cs/cs3390"]
 	path = cs/cs3390
 	url = git@github.com:goats-9/cs3390
+	branch = main
 [submodule "ee/ee5900"]
 	path = ee/ee5900
 	url = git@github.com:goats-9/ee5900
+	branch = main
 [submodule "cs/cs6160"]
 	path = cs/cs6160
 	url = git@github.com:goats-9/cs6160
+	branch = main
