@@ -38,3 +38,6 @@
 	path = cs/cs6160
 	url = git@github.com:goats-9/cs6160
 	branch = main
+[submodule "cs/cs5610"]
+	path = cs/cs5610
+	url = git@github.com:goats-9/cs5610
