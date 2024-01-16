@@ -38,3 +38,6 @@
 	path = cs/cs6160
 	url = git@github.com:goats-9/cs6160
 	branch = main
+[submodule "ai/ai5100"]
+	path = ai/ai5100
+	url = git@github.com:goats-9/ai5100
