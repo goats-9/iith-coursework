@@ -44,3 +44,6 @@
 [submodule "cs/cs5610"]
 	path = cs/cs5610
 	url = git@github.com:goats-9/cs5610
+[submodule "ee/ee3402"]
+	path = ee/ee3402
+	url = git@github.com:goats-9/ee3402
