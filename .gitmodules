@@ -47,3 +47,6 @@
 [submodule "ee/ee3402"]
 	path = ee/ee3402
 	url = git@github.com:goats-9/ee3402
+[submodule "cs/cs6490"]
+	path = cs/cs6490
+	url = git@github.com:goats-9/cs6490
