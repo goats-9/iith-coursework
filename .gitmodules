@@ -2,10 +2,6 @@
 	path = ai/ai1110
 	url = git@github.com:goats-9/ai1110
 	branch = main
-[submodule "ai/ai5100"]
-	path = ai/ai5100
-	url = git@github.com:goats-9/ai5100
-	branch = main
 [submodule "ee/ee2802"]
 	path = ee/ee2802
 	url = git@github.com:goats-9/ee2802
