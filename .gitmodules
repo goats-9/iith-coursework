@@ -41,12 +41,16 @@
 [submodule "ai/ai5100"]
 	path = ai/ai5100
 	url = git@github.com:goats-9/ai5100
+	branch = main
 [submodule "cs/cs5610"]
 	path = cs/cs5610
 	url = git@github.com:goats-9/cs5610
+	branch = main
 [submodule "ee/ee3402"]
 	path = ee/ee3402
 	url = git@github.com:goats-9/ee3402
+	branch = main
 [submodule "cs/cs6490"]
 	path = cs/cs6490
 	url = git@github.com:goats-9/cs6490
+	branch = main
