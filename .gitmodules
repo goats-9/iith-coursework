@@ -54,3 +54,6 @@
 	path = cs/cs6490
 	url = git@github.com:goats-9/cs6490
 	branch = main
+[submodule "cs/cs6190"]
+	path = cs/cs6190
+	url = git@github.com:goats-9/cs6190
