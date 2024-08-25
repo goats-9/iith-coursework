@@ -60,3 +60,6 @@
 [submodule "cs/cs5300"]
 	path = cs/cs5300
 	url = git@github.com:goats-9/cs5300
+[submodule "ai/ai3000"]
+	path = ai/ai3000
+	url = git@github.com:goats-9/ai3000
